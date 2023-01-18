@@ -4,3 +4,7 @@
 #### Images
 
 ![Image if random GitHub thing from google images](https://github.githubassets.com/images/modules/site/about/octocats.webp)
+
+#### Now we're onto code example
+
+print('hello world')
